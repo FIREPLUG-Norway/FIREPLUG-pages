@@ -2,7 +2,7 @@ name: "FIREPLUG-pages"
 title: "FIREPLUG"
 description: |
   FIREPLUG
-output_dir: "_docs"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
